@@ -1,0 +1,134 @@
+body {
+  width: 75%;
+  margin: 0 auto;
+}
+#choco-pizza {
+  width: 100%
+}
+#border {
+  margin-top: 30px;
+  width: 100%;
+  background-image: url("../img/hr-img.png");
+  height: 10px;
+  margin-left: 0px;
+  margin-bottom: 30px;
+}
+header {
+  display: block;
+  width: 100%;
+  height: 90px;
+  margin-top: 30px;
+  margin-bottom: 45px;
+}
+header ul {
+  float: right;
+  vertical-align: middle;
+}
+header li {
+  display: inline-block;
+}
+header img {
+  vertical-align: middle;
+}
+header p {
+  font-family: Helvetica;
+  font-size: .8em;
+  color:#a0a0a0;
+}
+#pintrest {
+  margin-right: 5px;
+}
+header div {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+.instructions {
+  text-indent: 40px;
+  margin: 20px 0 20px 0;
+  color:#8b8b8b;
+  line-height: 1.3em;
+  font-size: 1.5em;
+}
+h1 {
+  font-weight: bold;
+  font-size: 2.5em;
+  font-family: Helvetica;
+  margin-bottom: 5px;
+}
+h2 {
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: 2em;
+}
+h4 {
+  font-family: Helvetica;
+  font-size: .8em;
+  color:#b6b6b6;
+}
+h4 div {
+  float: right;
+  margin-bottom: 20px;
+}
+h4 div * {
+  display: inline;
+}
+section {
+  width: 100%;
+  background-image: url("../img/list-bg.png");
+  height: 300px;
+}
+section div {
+  width: 40%;
+  display: inline-block;
+  line-height: 1.5em;
+  font-size: 1.3em;
+  vertical-align: top;
+  margin-top: 30px;
+  font-family: fantasy;
+}
+#list1 {
+  margin-left: 6%;
+  margin-right: 10%;
+}
+.strikethrough {
+  text-decoration: line-through;
+}
+footer img {
+  float: left;
+  margin-right: 10px;
+}
+h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+button {
+  float: right;
+  color: white;
+  background-color: #d45858;
+  height: 45px;
+  width: 150px;
+  font-size: 1.2em;
+  vertical-align: top;
+  margin-left: 30px;
+}
+footer p {
+  color:#8b8b8b;
+  line-height: 1.3em;
+  font-size: 1.3em;
+  margin-bottom: 40px;
+}
+#trademark {
+  text-align: center;
+}
+#trademark img {
+  float: none;
+  margin: 0 auto;
+  align-self: center;
+  margin-bottom: 20px;
+}
+hr {
+  border:1px dashed gray;
+  float: unset;
+}
