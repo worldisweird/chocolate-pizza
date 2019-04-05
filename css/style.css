@@ -117,7 +117,7 @@ footer p {
   color:#8b8b8b;
   line-height: 1.3em;
   font-size: 1.3em;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 #trademark {
   text-align: center;
@@ -127,8 +127,14 @@ footer p {
   margin: 0 auto;
   align-self: center;
   margin-bottom: 20px;
+  position: absolute;
+  bottom: -1100px;
+
 }
 hr {
   border:1px dashed gray;
   float: unset;
+}
+#trademark p {
+  margin-top: 30px;
 }
